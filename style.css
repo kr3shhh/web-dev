@@ -7,13 +7,13 @@
 }
 
 body {
-    background-color: #d7eeec;
+    background-color: #a6d1c5;
     line-height: 1.6;
 }
 
 /* --- Navigation Bar (Requirement: Common on all pages) --- */
 nav {
-    background-color: #333333;
+    background-color: #22493d;
     overflow: hidden; /* Clears floats */
     padding: 15px;
 }
@@ -50,7 +50,7 @@ nav ul li a:hover {
 .container {
     width: 80%;
     margin: 20px auto;
-    background: rgb(192, 235, 236);
+    background: rgb(186, 221, 196);
     padding: 20px;
     min-height: 400px;
     border-radius: 5px;
